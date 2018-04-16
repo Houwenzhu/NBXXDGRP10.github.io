@@ -134,20 +134,14 @@ Zheng LU
 
 Conference Content: 
 
-  1.   
-    Discussed questions came up with last informal
+  1.Discussed questions came up with last informal
     meeting
-  2.   
-    To think some interesting idea about the function
+  2.To think some interesting idea about the function
     of the app before next meeting
-  3.   
-    Discussed the personas
-  4.   
-    Discussed what should we do next stage
-5.   Before next meeting should determine whether
-
-
-​    the application should focus on picture or video
+  3.Discussed the personas
+  4.Discussed what should we do next stage
+  5.Before next meeting should determine whether 
+  the application should focus on picture or video
 
 ---
 
@@ -187,9 +181,8 @@ Conference Content:
 
   1.   Determined to focus on video
   2.   Discussed some interesting idea about the function  of the app 
-  3.   
-      Discussed the user case
-4.   Discussed what should we do next stage
+  3.   Discussed the user case
+  4.   Discussed what should we do next stage
 
 
 ------
@@ -233,10 +226,8 @@ Conference Content:
        1.   Discussed questions came up with last informal
            meeting
        2.   Discussed specific function of the app
-       3.   
-         Discussed the improved user case
-       4.   
-         Discussed the prototyping
+       3.   Discussed the improved user case
+       4.   Discussed the prototyping
        5.   Discussed the content of interim report
        6.   Discussed what should we do next stage
 
@@ -275,11 +266,9 @@ Conference Content:
   1.   Discussed questions came up with last informal
         meeting
   2.   Discussed specific prototyping 
-  3.   
-      Discussed the class diagram draft
-  4.   
-      Discussed the interim report
-5.   Discussed what should we do next stage
+  3.   Discussed the class diagram draft
+  4.   Discussed the interim report
+  5.   Discussed what should we do next stage
 
 
 ------
@@ -317,10 +306,8 @@ Conference Content:
 
     1.   Discussed api and sdk
     2.   Discussed mvc model
-    3.   
-      Discussed the improved class diagram
-    4.   
-      Discussed the interim report
+    3.   Discussed the improved class diagram
+    4.   Discussed the interim report
     5.   Discussed the completed user interface
     6.   Discussed what should we do next stage
 
